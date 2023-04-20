@@ -6,8 +6,8 @@ This repository contains software that demonstate my proficiency to code in mult
 
 By showcasing my wide experience in building software, I communicate my ability to perform well in any development environment at a business.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
+<!--- [Software Demo Video](http://youtube.link.goes.here)
+-->
 # Development Environment
 
 I created my software with VSCode.
